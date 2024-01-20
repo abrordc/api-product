@@ -9,7 +9,7 @@
 
 ```javascript
 
-$: api ini adalah api sederhana yang di buat untuk me implimentasikan belajar prisam js
+$: api ini adalah api sederhana yang di buat untuk me implimentasikan belajar prismajs
 
 
 ```
